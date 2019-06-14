@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vale75020/recipe-app/static/css/main.c9ec86a1.chunk.css",
-    "main.js": "/vale75020/recipe-app/static/js/main.b37ae4cf.chunk.js",
-    "main.js.map": "/vale75020/recipe-app/static/js/main.b37ae4cf.chunk.js.map",
-    "runtime~main.js": "/vale75020/recipe-app/static/js/runtime~main.b8c4a40f.js",
-    "runtime~main.js.map": "/vale75020/recipe-app/static/js/runtime~main.b8c4a40f.js.map",
-    "static/js/2.35493de6.chunk.js": "/vale75020/recipe-app/static/js/2.35493de6.chunk.js",
-    "static/js/2.35493de6.chunk.js.map": "/vale75020/recipe-app/static/js/2.35493de6.chunk.js.map",
-    "index.html": "/vale75020/recipe-app/index.html",
-    "precache-manifest.4d584b26d4a975473a3f353d1b61f7bc.js": "/vale75020/recipe-app/precache-manifest.4d584b26d4a975473a3f353d1b61f7bc.js",
-    "service-worker.js": "/vale75020/recipe-app/service-worker.js",
-    "static/css/main.c9ec86a1.chunk.css.map": "/vale75020/recipe-app/static/css/main.c9ec86a1.chunk.css.map"
+    "main.css": "/static/css/main.c9ec86a1.chunk.css",
+    "main.js": "/static/js/main.a7538ed2.chunk.js",
+    "main.js.map": "/static/js/main.a7538ed2.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.35493de6.chunk.js": "/static/js/2.35493de6.chunk.js",
+    "static/js/2.35493de6.chunk.js.map": "/static/js/2.35493de6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.162574c0ae475aeea29530fe17adc68b.js": "/precache-manifest.162574c0ae475aeea29530fe17adc68b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c9ec86a1.chunk.css.map": "/static/css/main.c9ec86a1.chunk.css.map"
   }
 }
